@@ -1,0 +1,1 @@
+# my-automated-testing-aspnetcore10
